@@ -1,6 +1,6 @@
 # David-Learns-JavaScript
 
-The following repository consists of various small projects that I have completed to learn JavaScript! Each project has it's own directory!
+The following repository consists of various small projects that I have completed to learn JavaScript! Each project has it's own directory which includes the written code! Each paragraph below conists of the project description for a project as well as the video link to the video that was followed in the projects!
 
 ## Calculator
 
