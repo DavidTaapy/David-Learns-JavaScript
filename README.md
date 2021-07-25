@@ -12,4 +12,4 @@ The following directory contains the project code for an analog clock built usin
 
 ## Weather App By Current Location
 
-The following directory contains the project code for a weather application built using a tutorial made by Dev Ed at https://www.youtube.com/watch?v=wPElVpR1rwA&list=PL-tHL4yGBdKvFjT0OF2-yq3at-cMt8qW_&index=3! I have added the sunrise and sunset information above of the video content! The API used in this application is OpenWeatherMap which can be found at https://openweathermap.org/! The following API differs from the next as it uses the user's current location instead of the user entering the desired location!
+The following directory contains the project code for a weather application built using a tutorial made by Dev Ed at https://www.youtube.com/watch?v=wPElVpR1rwA&list=PL-tHL4yGBdKvFjT0OF2-yq3at-cMt8qW_&index=3! I have added the sunrise and sunset information above of the video content! The API used in this application is OpenWeatherMap which can be found at https://openweathermap.org/! The following API uses the user's current location instead of the user entering the desired location!
