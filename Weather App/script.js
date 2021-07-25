@@ -4,7 +4,8 @@ window.addEventListener('load', () => {             // Run after loading
 
     let temperatureDescription = document.querySelector('.temperature-description');
     let temperatureDegree = document.querySelector('.temperature-degree');
-    // let temperatureFeeling = document.querySelector('.temperature-feels-like');
+    let sunriseText = document.querySelector('.sunrise-time');
+    let sunsetText = document.querySelector('.sunset-time');
     let locationTimezone = document.querySelector('.location-timezone');
     let theIcon = document.querySelector('.icon');
     let temperatureSection = document.querySelector('.degree-section');
@@ -27,17 +28,18 @@ window.addEventListener('load', () => {             // Run after loading
             .then(data => {
                 console.log(data);
                 const weatherDesc = data.current.weather[0];
-                const { temp, feels_like } = data.current;
+                const { temp, feels_like, sunrise, sunset } = data.current;
                 const icon = weatherDesc.icon;
                 // Set DOM Elements from the API
                 temperatureDescription.textContent = CapitalizeFirstLetter(weatherDesc.description);
                 temperatureDegree.textContent = temp;
-                // temperatureFeeling.textContent = feels_like;
                 locationTimezone.textContent = data.timezone;
+                // Setting sunrise & sunset
+                sunriseText.textContent = UnixUTCToTime(sunrise);
+                sunsetText.textContent = UnixUTCToTime(sunset);
                 // Setting weather icon
                 setIcons(icon, theIcon);
                 // Changing between degrees & farenheit
-                // Formula for celsius
                 let celsius = Math.floor((temp - 32) * (5 / 9));
                 temperatureSection.addEventListener('click', () => {
                     if (temperatureSpan.textContent === "F") {
@@ -60,4 +62,13 @@ window.addEventListener('load', () => {             // Run after loading
 
 function CapitalizeFirstLetter(string) {
     return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+function UnixUTCToTime(unixTime) {
+    let date = new Date(unixTime * 1000);
+    let hours = date.getHours();
+    let minutes = "0" + date.getMinutes();
+    let seconds = "0" + date.getSeconds();
+    let formattedTime = hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+    return formattedTime;
 }

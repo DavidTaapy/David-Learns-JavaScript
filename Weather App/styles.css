@@ -18,7 +18,7 @@ body {
 .location,
 .temperature {
   height: 30vh;
-  width: 50%;
+  width: 75%;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -41,4 +41,25 @@ body {
 
 .degree-section h2 {
   font-size: 40px;
+}
+
+.sunrise-sunset {
+  height: 100px;
+  font-size: 30px;
+  position: relative;
+}
+
+.sunrise,
+.sunset {
+  width: 250px;
+  position: absolute;
+  transform: translateX(-75%);
+}
+
+.sunrise {
+  top: 0;
+}
+
+.sunset {
+  bottom: 0;
 }
