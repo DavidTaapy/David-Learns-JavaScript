@@ -15,6 +15,10 @@ body {
   color: white;
 }
 
+.degree-section h2 {
+  font-size: 40px;
+}
+
 .location,
 .temperature {
   height: 30vh;
@@ -22,6 +26,14 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+.location {
+  justify-content: space-around;
+}
+
+.location-timezone {
+  font-size: 40px;
 }
 
 .temperature {
@@ -39,27 +51,10 @@ body {
   font-size: 30px;
 }
 
-.degree-section h2 {
-  font-size: 40px;
-}
-
 .sunrise-sunset {
-  height: 100px;
+  height: 100%;
   font-size: 30px;
-  position: relative;
-}
-
-.sunrise,
-.sunset {
-  width: 250px;
-  position: absolute;
-  transform: translateX(-75%);
-}
-
-.sunrise {
-  top: 0;
-}
-
-.sunset {
-  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
