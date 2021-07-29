@@ -31,3 +31,9 @@ The following directory contains the project code for a colour flipper using a t
 The following directory contains the project code for a counter using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The counter functions with 3 buttons that increases, decreases and resets the count!
 
 ![Counter](/Snapshots/Counter.PNG)
+
+## Reviews
+
+The following directory contains the project code for a review chooser using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Using the previous, next and random button, reviews are chosen from an array of reviews to be displayed!
+
+![Reviews](/Snapshots/Reviews.PNG)
