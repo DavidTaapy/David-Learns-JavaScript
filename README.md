@@ -37,3 +37,15 @@ The following directory contains the project code for a counter using a tutorial
 The following directory contains the project code for a review chooser using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Using the previous, next and random button, reviews are chosen from an array of reviews to be displayed!
 
 ![Reviews](/Snapshots/Reviews.PNG)
+
+## Navbar
+
+The following directory contains the project code for a navigation bar using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By clicking the diamond button on the top-right corner, the selection menu is toggled to appear / hide!
+
+### Before clicking
+
+![Navbar Before](/Snapshots/NavBar-Before.PNG)
+
+### After clicking
+
+![Navbar After](/Snapshots/NavBar-After.PNG)
