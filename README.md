@@ -61,3 +61,15 @@ The following directory contains the project code for a sidebar using a tutorial
 ### After clicking
 
 ![Sidebar After](/Snapshots/SideBar-After.PNG)
+
+## Modal
+
+The following directory contains the project code for a modal using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By clicking the open modal button, the modal will be opened and by clicking the close button, the modal will be closed!
+
+### Before clicking
+
+![Modal Before](/Snapshots/Modal-Before.PNG)
+
+### After clicking
+
+![Modal After](/Snapshots/Modal-After.PNG)
