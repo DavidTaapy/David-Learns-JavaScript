@@ -49,3 +49,15 @@ The following directory contains the project code for a navigation bar using a t
 ### After clicking
 
 ![Navbar After](/Snapshots/NavBar-After.PNG)
+
+## Sidebar
+
+The following directory contains the project code for a navigation bar using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By clicking the diamond button on the top-right corner, the selection menu is toggled to appear / hide!
+
+### Before clicking
+
+![Sidebar Before](/Snapshots/SideBar-Before.PNG)
+
+### After clicking
+
+![Sidebar After](/Snapshots/SideBar-After.PNG)
