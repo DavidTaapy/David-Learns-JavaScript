@@ -52,7 +52,7 @@ The following directory contains the project code for a navigation bar using a t
 
 ## Sidebar
 
-The following directory contains the project code for a navigation bar using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By clicking the diamond button on the top-right corner, the selection menu is toggled to appear / hide!
+The following directory contains the project code for a sidebar using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By clicking the diamond button on the top-right corner, the selection menu is toggled to appear / hide! Also, the close button can be used to hide the sidebar!
 
 ### Before clicking
 
