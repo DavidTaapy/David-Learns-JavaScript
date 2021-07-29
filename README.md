@@ -25,3 +25,9 @@ The following directory contains the project code for a weather application buil
 The following directory contains the project code for a colour flipper using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The colour flipper functions by generating random colours and displaying it in the background whenever the 'Click Me' button is pressed!
 
 ![Colour Flipper](/Snapshots/Colour-Flipper.PNG)
+
+## Counter
+
+The following directory contains the project code for a counter using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The counter functions with 3 buttons that increases, decreases and resets the count!
+
+![Counter](/Snapshots/Counter.PNG)
