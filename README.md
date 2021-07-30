@@ -85,3 +85,9 @@ The following directory contains the project code for a question and answer plat
 The following directory contains the project code for a menu platform using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Functionalities included are that the filter buttons are dynamically generated as well as the filtering function!
 
 ![Menu](/Snapshots/Menu-Shakes.PNG)
+
+## Video
+
+The following directory contains the project code for a video site using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The video can be played / paused using the slider at the bottom-left corner! A pre-loader was also included!
+
+![Menu](/Snapshots/Video.PNG)

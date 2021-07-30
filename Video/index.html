@@ -4,13 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Video</title>
-
-    <!-- styles -->
     <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
   </head>
   <body>
-    <h1>video project</h1>
-    <!-- javascript -->
-    <script src="app.js"></script>
+    <!-- Preloader -->
+    <div class="preloader">
+      <img src="./preloader.gif" alt="Preloader">
+    </div>
+    <!-- Header -->
+    <header>
+      <video class="video-container" muted autoplay loop>
+        <source src="./video.mp4" type="video/mp4">
+      </video>
+      <h1>Video Project</h1>
+      <!-- Video Switch -->
+      <button class="switch-btn">
+        <span>Play</span>
+        <span>Pause</span>
+        <span class="switch"></span>
+      </button>
+    </header>
   </body>
 </html>
