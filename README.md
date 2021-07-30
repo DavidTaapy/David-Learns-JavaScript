@@ -73,3 +73,9 @@ The following directory contains the project code for a modal using a tutorial m
 ### After clicking
 
 ![Modal After](/Snapshots/Modal-After.PNG)
+
+## Questions
+
+The following directory contains the project code for a question and answer platform using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By toggling the plus and minus buttons, the text for answers are shown and only one question will be shown at a time.
+
+![Questions](/Snapshots/Questions.PNG)

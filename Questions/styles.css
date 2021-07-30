@@ -267,7 +267,7 @@ Questions
 
 /* Hide text */
 
-/* .question-text {
+.question-text {
   display: none;
 }
 
@@ -285,4 +285,4 @@ Questions
 
 .show-text .plus-icon {
   display: none;
-} */
+}
