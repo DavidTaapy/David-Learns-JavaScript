@@ -110,4 +110,10 @@ The following directory contains the project code for a tabs function using a tu
 
 The following directory contains the project code for a countdown timer using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The countdown timer would countdown towards a specific date and the page refreshes automatically!
 
-![Tabs](/Snapshots/Tabs.PNG)
+![Countdown Timer](/Snapshots/Tabs.PNG)
+
+## Lorem Ipsum
+
+The following directory contains the project code for a lorem ipsum paragraph generator using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Based on the number of paragraphs inputted by the user, the generator would output the required number of hippy lorem ipsum paragraphs!
+
+![Lorem Ipsum](/Snapshots/Lorem-Ipsum.PNG)
