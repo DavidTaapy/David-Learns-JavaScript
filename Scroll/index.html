@@ -13,6 +13,68 @@
     <script src="app.js" defer></script>
   </head>
   <body>
-
+    <header id="home">
+      <!-- Navbar -->
+      <nav id="nav">
+        <div class="nav-center">
+          <div class="nav-header">
+            <!-- Nav Header -->
+            <img src="./logo.svg" alt="Logo" class="logo">
+            <button class="nav-toggle">
+              <i class="fas fa-bars"></i>
+            </button>
+          </div>
+          <!-- Links -->
+          <div class="links-container">
+            <ul class="links">
+              <li>
+                <a href="#home" class="scroll-link">home</a>
+              </li>
+              <li>
+                <a href="#about" class="scroll-link">about</a>
+              </li>
+              <li>
+                <a href="#services" class="scroll-link">services</a>
+              </li>
+              <li>
+                <a href="#tours" class="scroll-link">tours</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <!-- Banner -->
+      <div class="banner">
+        <div class="container">
+          <h1>Scroll Project</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, sint incidunt autem qui debitis quis magnam?</p>
+          <a href="#tours" class="scroll-link btn btn-white">Explore Tours</a>
+        </div>
+      </div>
+    </header>
+    <!-- Sections -->
+    <section id="about" class="section">
+      <div class="title">
+        <h2>About <span>Us</span></h2>
+      </div>
+    </section>
+    <section id="services" class="section">
+      <div class="title">
+        <h2>Our <span>Services</span></h2>
+      </div>
+    </section>
+    <section id="tours" class="section">
+      <div class="title">
+        <h2>Featured <span>Tours</span></h2>
+      </div>
+    </section>
+    <footer class="section">
+      <p>Something like a copyright text with dynamic date hehe like 
+        <span id="date"></span>
+      </p>
+    </footer>
+    <a href="#home" class="scroll-link top-link">
+      <i class="fas fa-arrow-up"></i>
+    </a>
   </body>
 </html>

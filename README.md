@@ -91,3 +91,11 @@ The following directory contains the project code for a menu platform using a tu
 The following directory contains the project code for a video site using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The video can be played / paused using the slider at the bottom-left corner! A pre-loader was also included!
 
 ![Menu](/Snapshots/Video.PNG)
+
+## Scroll
+
+The following directory contains the project code for a video site using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The scroller can use to scroll to different parts of the page and it has a different look in both desktop and mobile!
+
+![Scroll-Initial](/Snapshots/Scroll-Initial.PNG)
+
+![Scroll-Mobile](/Snapshots/Scroll-Mobile.PNG)
