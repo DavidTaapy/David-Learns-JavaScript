@@ -105,3 +105,9 @@ The following directory contains the project code for a scrolling website using 
 The following directory contains the project code for a tabs function using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Different content will be displayed based on the tab clicked on by the user!
 
 ![Tabs](/Snapshots/Tabs.PNG)
+
+## Countdown Timer
+
+The following directory contains the project code for a countdown timer using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The countdown timer would countdown towards a specific date and the page refreshes automatically!
+
+![Tabs](/Snapshots/Tabs.PNG)
