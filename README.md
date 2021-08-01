@@ -117,3 +117,9 @@ The following directory contains the project code for a countdown timer using a 
 The following directory contains the project code for a lorem ipsum paragraph generator using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Based on the number of paragraphs inputted by the user, the generator would output the required number of hippy lorem ipsum paragraphs!
 
 ![Lorem Ipsum](/Snapshots/Lorem-Ipsum.PNG)
+
+## Slider
+
+The following directory contains the project code for a slider using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The slider is programmed to slide left or right depending on the button pressed!
+
+![Slider](/Snapshots/Slider.PNG)
