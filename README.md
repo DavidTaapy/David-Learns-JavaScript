@@ -94,8 +94,14 @@ The following directory contains the project code for a video site using a tutor
 
 ## Scroll
 
-The following directory contains the project code for a video site using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The scroller can use to scroll to different parts of the page and it has a different look in both desktop and mobile!
+The following directory contains the project code for a scrolling website using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The scroller can use to scroll to different parts of the page and it has a different look in both desktop and mobile!
 
 ![Scroll-Initial](/Snapshots/Scroll-Initial.PNG)
 
 ![Scroll-Mobile](/Snapshots/Scroll-Mobile.PNG)
+
+## Tabs
+
+The following directory contains the project code for a tabs function using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Different content will be displayed based on the tab clicked on by the user!
+
+![Tabs](/Snapshots/Tabs.PNG)
