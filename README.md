@@ -2,11 +2,45 @@
 
 The following repository consists of various small projects that I have completed to learn JavaScript! Each project has it's own directory which includes the written code! Each paragraph below conists of the project description for a project as well as the video link to the video that was followed in the projects!
 
+## Grocery List
+
+The following directory contains the project code for a grocery list using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Functionalities of this grocery list includes adding, removing and editing items as well as a clear-all button!
+
+### Grocery List
+
+![Grocery 1](/Snapshots/Grocery-List.PNG)
+
+### Grocery List While Editing
+
+![Grocery 2](/Snapshots/Grocery-Edit.PNG)
+
+### Grocery List Post-Editing
+
+![Grocery 3](/Snapshots/Grocery-List.PNG)
+
 ## Calculator
 
 The following directory contains the project code for a basic calculator built using a tutorial made by Web Dev Simplified at https://www.youtube.com/watch?v=j59qQ7YWLxw!
 
 ![Calculator](/Snapshots/Calculator.PNG)
+
+## Sidebar
+
+The following directory contains the project code for a sidebar using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By clicking the diamond button on the top-right corner, the selection menu is toggled to appear / hide! Also, the close button can be used to hide the sidebar!
+
+### Before clicking
+
+![Sidebar Before](/Snapshots/SideBar-Before.PNG)
+
+### After clicking
+
+![Sidebar After](/Snapshots/SideBar-After.PNG)
+
+## Countdown Timer
+
+The following directory contains the project code for a countdown timer using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The countdown timer would countdown towards a specific date and the page refreshes automatically!
+
+![Countdown Timer](/Snapshots/Tabs.PNG)
 
 ## Analog Clock
 
@@ -49,18 +83,6 @@ The following directory contains the project code for a navigation bar using a t
 ### After clicking
 
 ![Navbar After](/Snapshots/NavBar-After.PNG)
-
-## Sidebar
-
-The following directory contains the project code for a sidebar using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! By clicking the diamond button on the top-right corner, the selection menu is toggled to appear / hide! Also, the close button can be used to hide the sidebar!
-
-### Before clicking
-
-![Sidebar Before](/Snapshots/SideBar-Before.PNG)
-
-### After clicking
-
-![Sidebar After](/Snapshots/SideBar-After.PNG)
 
 ## Modal
 
@@ -105,12 +127,6 @@ The following directory contains the project code for a scrolling website using 
 The following directory contains the project code for a tabs function using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! Different content will be displayed based on the tab clicked on by the user!
 
 ![Tabs](/Snapshots/Tabs.PNG)
-
-## Countdown Timer
-
-The following directory contains the project code for a countdown timer using a tutorial made by John Smilga at https://www.youtube.com/watch?v=3PHXvlpOkf4&t=17049s! The countdown timer would countdown towards a specific date and the page refreshes automatically!
-
-![Countdown Timer](/Snapshots/Tabs.PNG)
 
 ## Lorem Ipsum
 
