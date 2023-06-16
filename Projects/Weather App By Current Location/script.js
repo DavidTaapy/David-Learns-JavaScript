@@ -17,7 +17,7 @@ window.addEventListener('load', () => {             // Run after loading
             long = position.coords.longitude;
             lat = position.coords.latitude;
             
-            const api_key = "4f66fa1fb35fd89b674111c95ad76706";
+            const api_key = "Insert API Key From OpenWeatherMap";
             const excludes = "minutely,hourly,daily,alerts";
             const api = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&exclude=${excludes}&appid=${api_key}&units=imperial`;
         
